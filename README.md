@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
-<h3 align="center">Hey there! A result driven web developer, passionate about user-friendly software applications. My studies and job background have provided me analitichal abilities, in addition to excellent problem solving skills and well performing team member.</h3>
+<h3 align="center">Hey there! I'm a result driven web developer, passionate about user-friendly software applications. My studies and job background have provided me analitichal abilities, in addition to excellent problem solving skills and well performing team member.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiomigliacc&label=Profile%20views&color=0e75b6&style=flat" alt="fabiomigliacc" /> </p>
 
@@ -7,11 +7,10 @@
 
 - 🔭 Full Stack project [Biblioteca de las cosas](https://github.com/cosateca/cosatk-front)
 
-- 🌱 I’m currently learning **Next, Angular**
-
 - 🔭 Social page project : [La recette sociale](https://github.com/factoriaf5-p52/front-recette-social-las-abuelas)
 
 - 🔭 Market place project : [Space jump](https://github.com/spacejam-marketplace/space-jump)
+- 🌱 I’m currently learning **Next, Angular**
 
 - 👨‍💻 All of my projects are available at [https://fabio-migliaccio-portfolio.netlify.app](https://fabio-migliaccio-portfolio.netlify.app)
 
