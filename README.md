@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiomigliacc&label=Profile%20views&color=0e75b6&style=flat" alt="fabiomigliacc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiomigliacc" alt="fabiomigliacc" /></a> </p>
-<h1 >Take a look to My team and solo projects : </h1>
+<h2 >Take a look to My team and solo projects : </h2>
 - 🔭 Full Stack project [Biblioteca de las cosas](https://github.com/cosateca/cosatk-front)
 
 - 🔭 Social page project : [La recette sociale](https://github.com/factoriaf5-p52/front-recette-social-las-abuelas)
@@ -12,7 +12,7 @@
 - 🔭 Market place project : [Space jump](https://github.com/spacejam-marketplace/space-jump)
 - 🔭 First react-bootstrap project : [Soundwave](https://github.com/FabioMigliacc/sound_wave_react-boostrap-typescript)
 - 🔭 Hackthlon project : [Tienda de Barrio](https://github.com/LidiaLG/TdB-Hackaton)
-- 
+<h3 >More about me: </h3>
 - 🌱 I’m currently learning **Next, Angular**
 
 - 👨‍💻 All of my projects are available at [https://fabio-migliaccio-portfolio.netlify.app](https://fabio-migliaccio-portfolio.netlify.app)
