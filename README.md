@@ -10,6 +10,9 @@
 - 🔭 Social page project : [La recette sociale](https://github.com/factoriaf5-p52/front-recette-social-las-abuelas)
 
 - 🔭 Market place project : [Space jump](https://github.com/spacejam-marketplace/space-jump)
+- 🔭 First react-bootstrap project : [Soundwave](https://github.com/FabioMigliacc/sound_wave_react-boostrap-typescript)
+- 🔭 Hackthlon project : [Tienda de Barrio](https://github.com/LidiaLG/TdB-Hackaton)
+- 
 - 🌱 I’m currently learning **Next, Angular**
 
 - 👨‍💻 All of my projects are available at [https://fabio-migliaccio-portfolio.netlify.app](https://fabio-migliaccio-portfolio.netlify.app)
