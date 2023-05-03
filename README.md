@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiomigliacc" alt="fabiomigliacc" /></a> </p>
 <h2 >Take a look to My team and solo projects : </h2>
+
 - 🔭 Full Stack project [Biblioteca de las cosas](https://github.com/cosateca/cosatk-front)
 
 - 🔭 Social page project : [La recette sociale](https://github.com/factoriaf5-p52/front-recette-social-las-abuelas)
@@ -19,13 +20,15 @@
 
 - 💬 Ask me about **React, NestJS**
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **fabiomigliaccio99@gmail.com**
 
 - 📄 My Linkedin [https://www.linkedin.com/in/fabio-migliaccio-6a7124180/](https://www.linkedin.com/in/fabio-migliaccio-6a7124180/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/fabio migliaccio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabio migliaccio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fabio-migliaccio-6a7124180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabio migliaccio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
