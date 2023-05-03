@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fabio Migliaccio</h1>
 <h3 align="center">Hey there! I'm a result driven web developer, passionate about user-friendly software applications. My studies and job background have provided me analitichal abilities, in addition to excellent problem solving skills and well performing team member.</h3>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Frontend%20Backend%20&font=Fira%20Code&center=true&width=440&height=45&color=df234f&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiomigliacc&label=Profile%20views&color=0e75b6&style=flat" alt="fabiomigliacc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiomigliacc" alt="fabiomigliacc" /></a> </p>
