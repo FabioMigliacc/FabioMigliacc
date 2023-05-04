@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiomigliacc&label=Profile%20views&color=0e75b6&style=flat" alt="fabiomigliacc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiomigliacc" alt="fabiomigliacc" /></a> </p>
-<h2 >Take a look to My team and solo projects : </h2>
+<h2 >Take a look to my team and solo projects : </h2>
 
 - 🔭 Full Stack project [Biblioteca de las cosas](https://github.com/cosateca/cosatk-front)
 
